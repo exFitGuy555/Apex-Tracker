@@ -10,7 +10,8 @@ Full stack Vue/Express app using the Tracker Network API to track player stats
 ![Image](POWERPNT_qXxPQJA52R.png)
   
 # Backgroud:
-As a big fan of Online gaming and especially Apex Legends, ive looked to code project that related to one of my big passions!
+As a big fan of Online gaming and especially Apex Legends, i've looked to develop a project
+ that is related to one of my big passions.
 
 # Special Features:
   - Apex Legends Stats and Leaderboards rankings.
@@ -21,13 +22,6 @@ As a big fan of Online gaming and especially Apex Legends, ive looked to code pr
 
 * FRONTEND: VUE
 * BACKEND: NodeJS , RESTApi, Express, Morgan, dotenv, concurrently, node-fetch, vue-spinner
-
-
-
-
-# RestApi WorkFlow:
-
-
 
 
 ### Installation
