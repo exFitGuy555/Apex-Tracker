@@ -28,19 +28,24 @@ As a big fan of Online gaming and especially Apex Legends, ive looked to code pr
 # RestApi WorkFlow:
 
 
+
+
 ### Installation
 
-# Install Express dependencies
-npm install
+```sh
+$ npm install 
+$ cd client
 
 # Install Vue dependencies
-cd client
-npm install
+$ npm install
+$ node run start
 
 # Serve
-npm run dev
+$ npm run dev
 
 # Build for production
-cd client
-npm run build
-# Gets put in /public
+$ cd client
+$ npm run build
+
+```
+
