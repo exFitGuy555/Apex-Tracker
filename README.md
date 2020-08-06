@@ -7,7 +7,7 @@ Full stack Vue/Express app using the Tracker Network API to track player stats
 
 # Project Architecture:
 
-![Image](public/images/POWERPNT_drtZEHNlCJ.png)
+![Image](POWERPNT_qXxPQJA52R.png)
   
 # Backgroud:
 As a big fan of Online gaming and especially Apex Legends, ive looked to code project that related to one of my big passions!
